@@ -129,7 +129,7 @@ ava.test('parseField, empty array', t => {
 
 ava.test('parseField, empty object', t => {
   const instance = getParserInstance();
-  const key = instance.parseField([]);
+  const key = instance.parseField({});
   t.deepEqual(key, '*');
 });
 
