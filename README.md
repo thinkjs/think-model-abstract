@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-model-abstract.
+
 # think-model-abstract
 
 [![npm](https://img.shields.io/npm/v/think-model-abstract.svg?style=flat-square)]()
